@@ -23,6 +23,10 @@ h3 {
 	height: 400px;
 }
 
+.logo {
+	padding-top: 10px;
+}
+
 #title {
 	text-align: left;
 	color: #bcbbbb;
@@ -51,6 +55,9 @@ hr {
 	border-bottom: 3px solid rgba(0,0,0,0.2);
 }
 
+.col-11 {
+	padding-top: 30px;
+}
 .col-sm-4 img {
 	width: 100%;
 	height: auto;
